@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "689338040083",
+    "project_id": "ksvideo-94269",
+    "storage_bucket": "ksvideo-94269.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689338040083:android:20fd828e53b630c8d5e4e6",
+        "android_client_info": {
+          "package_name": "com.ksvideo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689338040083-467pr13eci0tih77t1c4q57m0130hbj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ksvideo.app",
+            "certificate_hash": "50815ec6eb106ccd561fb60523f41f99bb6fff6a"
+          }
+        },
+        {
+          "client_id": "689338040083-kelhehorsfh9r30r8l97p8m9nqh79q7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBszCqt6x2-WOTT9BELl9PlSbK9LmbN_pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689338040083-kelhehorsfh9r30r8l97p8m9nqh79q7m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "689338040083-nmq2a5q8gp7j20kijr3vjsh669ho4k4l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ksvideo.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
